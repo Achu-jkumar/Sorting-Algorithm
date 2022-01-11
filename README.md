@@ -65,7 +65,7 @@ print(list_of_nums)
 
 
 ## Output:
-![selection](./selection.png)
+![Sorting-Algorithm](./selection.png)
 ![insertion](./insertion.png)
 
 
